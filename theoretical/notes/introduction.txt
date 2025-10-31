@@ -1,0 +1,23 @@
+Para iniciar um projeto de Machine Learning, existem alguns passos essenciais
+para garantir que o modelo seja eficiente e atenda aos objetivos esperados.
+
+1. Coleta de Dados
+A coleta de dados é uma etapa essencial em projetos de Machine Learning, 
+pois é a partir deles que o algoritmo será treinado. É importante compreender o que esses dados representam 
+e quais informações eles transmitem, já que a qualidade dos dados influencia diretamente o desempenho do modelo
+
+2. Limpeza de Dados
+A limpeza de dados é uma etapa fundamental para garantir que o treinamento do modelo seja feito com informações de
+qualidade e coerentes. Nessa fase, são tratados problemas como ausência de valores,
+presença de outliers e dados inconsistentes ou duplicados, assegurando que o conjunto de dados esteja adequado
+para o aprendizado do algoritmo.
+
+3. Preparação dos Dados
+Nessa fase, os dados são organizados e divididos em subconjuntos, geralmente de treinamento e teste.
+O conjunto de treinamento é usado para ensinar o modelo a reconhecer padrões, enquanto o conjunto de teste
+serve para avaliar o desempenho e a capacidade de generalização do modelo.
+
+4. Treinamento do modelo
+Nesta fase, aplicam-se algoritmos de Machine Learning com o objetivo de identificar padrões,
+realizar previsões ou agrupar informações de acordo com suas características,
+dependendo do tipo de problema definido.
